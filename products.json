@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "category": "Electronics",
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "stock": 120
+  },
+  {
+    "id": "2",
+    "category": "Electronics",
+    "name": "Mechanical Keyboard",
+    "price": 75.50,
+    "stock": 45
+  },
+  {
+    "id": "3",
+    "category": "Electronics",
+    "name": "Gaming Headset",
+    "price": 49.99,
+    "stock": 30
+  },
+  {
+    "id": "4",
+    "category": "Clothing",
+    "name": "Cotton T-Shirt",
+    "price": 15.00,
+    "stock": 200
+  },
+  {
+    "id": "5",
+    "category": "Clothing",
+    "name": "Denim Jacket",
+    "price": 60.00,
+    "stock": 50
+  },
+  {
+    "id": "6",
+    "category": "Clothing",
+    "name": "Running Shoes",
+    "price": 85.00,
+    "stock": 80
+  },
+  {
+    "id": "7",
+    "category": "Home",
+    "name": "Coffee Maker",
+    "price": 40.00,
+    "stock": 25
+  },
+  {
+    "id": "8",
+    "category": "Home",
+    "name": "Blender",
+    "price": 35.50,
+    "stock": 60
+  },
+  {
+    "id": "9",
+    "category": "Home",
+    "name": "Desk Lamp",
+    "price": 18.99,
+    "stock": 90
+  },
+  {
+    "id": "10",
+    "category": "Electronics",
+    "name": "Smartphone Stand",
+    "price": 12.50,
+    "stock": 150
+  }
+]
